@@ -1,0 +1,41 @@
+/*.col-md-2 {
+  border: 1px solid #000;
+}
+.col-md-12 {
+  border: 1px solid #000;
+}
+.col-md-3 {
+  border: 1px solid #000;
+}
+.col-md-6 {
+  border: 1px solid #000;
+} */
+
+.outter {
+  padding: 15px 0;
+}
+.inner {
+  height: inherit;
+  background-color: #000;
+}
+
+.box {
+  color: white;
+  height: 100px;
+}
+.tab {
+  margin-top: 30%;
+  height: 40%;
+}
+
+.hero {
+  height: 300px;
+}
+
+.titlebox {
+  height: 30px;
+}
+
+.sectionbox {
+  height: 200px;
+}
